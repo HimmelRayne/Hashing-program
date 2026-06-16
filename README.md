@@ -3,6 +3,8 @@ This code reserved for my exercise, feel free to use it
 
 Muhammad Ridwan Kurniawan|24106050043
 
+Link Youtube: https://youtu.be/cDoUdo4-7To
+
 AI yang digunakan: Gemini PRO
 
 Prompt: 
