@@ -3,8 +3,6 @@ This code reserved for my exercise, feel free to use it
 
 Muhammad Ridwan Kurniawan|24106050043
 
-Link Video: https://youtu.be/Q9H5McoYsZ8
-
 AI yang digunakan: Gemini PRO
 
 Prompt: 
@@ -15,13 +13,15 @@ Buatkan program lengkap menggunakan bahasa Java dan Python yang mengimplementasi
 Fitur program:
 
 1. Input data
-2. Hapus data
-3. Cari data
+2. Cari data
+3. Hapus data
+4. Tampilkan hash table
+5. Exit
 
 Ketentuan program:
 
 * Saat program pertama kali dijalankan, hash table harus otomatis terisi 100 angka random unik (tidak boleh ada angka yang sama).
-* Gunakan collision handling technique Double Hashing.
+* Gunakan collision handling technique separate chaining (closed addressing).
 * Gunakan fungsi hash sederhana namun benar untuk:
 
   * Primary hash function
